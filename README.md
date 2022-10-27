@@ -23,4 +23,4 @@ STEP 4: Open up postman (if you haven't already downloaded so). There should be 
 
 STEP 5: There should be a body just below that with text. Read it, Now add another '/' after the URL link with your input to that question or demand. If your having trouble look at this as an example 'https://localhost:7258/NEW/ODDOREVEN/7785'. If you look a little under that you should see your response (Like i mentioned in the body). Try entering different inputs in and see what your outcome is. GoodLuck !! 
 
-WHAT HAPPENS IF NOTHING IS POPPING UP??? MAKE SURE YOU ENTER A WHOLE NUMBER, NO SPACES, WORDS OR CHARACTERS AS YOUR INPUT (AFTER THE /). 
+WHAT HAPPENS IF NOTHING IS POPPING UP??? MAKE SURE YOU ENTER A WHOLE NUMBER, NO SPACES, WORDS OR CHARACTERS AS YOUR INPUT (AFTER THE /). LIKE THE EXAMPLE IN STEP 5
